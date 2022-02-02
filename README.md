@@ -11,7 +11,7 @@ Perintah :
  pkg upgrade -y
  pkg install python git
  pip install requests cython futures bs4
- git clone https://github.com/asta-id/asta
+ git clone https://github.com/Waqarhackerboy56/Asta-Waqar
  cd $HOME/asta
 ```
 Tunggu hinggan proses install selesai jika sudah kamu jalankan script nya
