@@ -12,7 +12,7 @@ Perintah :
  pkg install python git
  pip install requests cython futures bs4
  git clone https://github.com/Waqarhackerboy56/Asta-Waqar
- cd $HOME/asta
+ cd $HOME/Asta-Waqar
 ```
 Tunggu hinggan proses install selesai jika sudah kamu jalankan script nya
 
