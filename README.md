@@ -20,7 +20,7 @@ Tunggu hinggan proses install selesai jika sudah kamu jalankan script nya
 Perintah :
 ```
  cythonize -i brute.c
- python run.py
+ python run-1.py
 ```
 
 ### Informasi Harga
